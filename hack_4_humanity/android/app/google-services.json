@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "522337212260",
+    "project_id": "healthcare-hackathon-f9014",
+    "storage_bucket": "healthcare-hackathon-f9014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522337212260:android:770d245a89f51bb1a1cc71",
+        "android_client_info": {
+          "package_name": "health.ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522337212260-bbc317cqb29mip04o1b70v10sf524nt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm1SnkD72hZX1iyRGwFw2DvhxlpJzayrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522337212260-bbc317cqb29mip04o1b70v10sf524nt4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "522337212260-oe7il1t2sps8lv60jk1kd8ck5opjf2m0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "health.ai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
